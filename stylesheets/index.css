@@ -3,5 +3,12 @@ These are the styles for the whole document
  */
 
 .main-title {
-    background: purple;
-}red
+    background: red;
+    padding: 40px 40px 80px 80px;
+    margin: 0;
+}
+
+.blah, .navbar {
+    font-family: 'Press Start 2P', cursive;
+    color: aqua;
+}
